@@ -1,2 +1,2 @@
-# IR-first-project
+# IoT-first-project
 First repo.
